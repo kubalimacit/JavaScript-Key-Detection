@@ -1,0 +1,19 @@
+html{
+    background-color: #ffffff;
+}
+body {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+  }
+  
+  h1 {
+    cursor: pointer;
+    margin-top: calc(50vh - 16px);
+    font-size: 40px;
+    color: #bd6281;
+    transition: .4s
+  }
+  
+  h1:hover {
+    color: rgba(205, 211, 150, 0.9);
+  }
